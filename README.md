@@ -1,2 +1,5 @@
 # data-science-Hex-software-new-task-3
-internship task
+The Covid-19 Data Analysis Project using Python involves collecting and analyzing real-time data on Covid-19 cases, recoveries, and fatalities from various sources.
+It utilizes libraries like Pandas, NumPy, and Matplotlib for data manipulation, cleaning, and visualization.
+The project aims to identify patterns, trends, and correlations .
+
